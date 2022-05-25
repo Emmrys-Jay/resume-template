@@ -564,6 +564,7 @@ section{
     }
     .about-img{
         order: 2;
+        display: none;
 
     }
 
